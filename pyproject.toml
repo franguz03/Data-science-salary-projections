@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "data-science-projection"
+version = "0.1.0"
+description = ""
+authors = ["franco guzman <francorjuela04@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.29.5"
+selenium = "^4.29.0"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
