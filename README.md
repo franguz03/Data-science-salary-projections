@@ -132,5 +132,4 @@ francorjuela04@gmail.com
 
 ---
 
-This README is designed to highlight your technical skills, structured problem-solving approach, and ability to deliver a full-stack machine learning solution—great for impressing potential employers!
 
